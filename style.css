@@ -20,6 +20,15 @@ body{
      text-align: center;
      line-height: 100px;
 } 
+#logo{
+    float: left;
+    margin-left: 20px;
+    padding: 20px;
+}
+#logo img{
+    height: 80px;
+    float: left;
+}
 #menu{
     background-color: #2222;
     color: white;
